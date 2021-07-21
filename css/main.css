@@ -30,8 +30,9 @@ h1 {
 .registration .row {
 	background-color: #ffffff;
 }
-.registration img {
-	height: 100%;
+.registration .picture {
+	background: url(../img/city.jpg);
+	background-size: cover;
 }
 .registration label,
 .registration input {
